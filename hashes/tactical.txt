@@ -1,0 +1,2 @@
+6bd8e820684a2fe378088c9595757a768b03012ba3aa03166e12be96c9e6b25b  tacticalagent-v2.4.4-windows-386.exe
+d9957033e0c39d8b6ff8153376b097a1090e5c60a2a4e6931741dc1a66fb5c5f  tacticalagent-v2.4.4-windows-amd64.exe
